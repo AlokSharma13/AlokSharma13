@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--**## Hi there 👋**
 
 <!--
 **AlokSharma13/AlokSharma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 > _A developer who turns coffee and logic into working software._
 
 ```javascript
-const mash = {
+const Alok Sharma = {
   pronouns     : "He / Him",
   location     : "India 🇮🇳",
   code         : ["C++", "JavaScript", "Python"],
