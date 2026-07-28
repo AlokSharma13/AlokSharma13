@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Mash%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Alok%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION -->
